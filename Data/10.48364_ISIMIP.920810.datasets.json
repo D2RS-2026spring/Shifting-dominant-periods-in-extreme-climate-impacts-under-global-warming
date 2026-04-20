@@ -1,0 +1,2606 @@
+[
+    {
+        "id": "976cc348-fd80-4d5e-bb32-4b9fabc536a4",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/ACEA/gswp3-w5e5/historical/zantout2025_acea_gswp3-w5e5_obsclim_histsoc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/976cc348-fd80-4d5e-bb32-4b9fabc536a4/"
+    },
+    {
+        "id": "041c3e1a-e290-4f7c-8913-f31d0fed16cc",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/CLASSIC/gswp3-w5e5/historical/zantout2025_classic_gswp3-w5e5_counterclim_histsoc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/041c3e1a-e290-4f7c-8913-f31d0fed16cc/"
+    },
+    {
+        "id": "6d72e5ff-7dfe-4275-b8fd-a378b1745b8f",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/CLASSIC/gswp3-w5e5/historical/zantout2025_classic_gswp3-w5e5_obsclim_histsoc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/6d72e5ff-7dfe-4275-b8fd-a378b1745b8f/"
+    },
+    {
+        "id": "fc621d52-1c43-41a3-b27c-a04d0754d1cc",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/CROVER/gswp3-w5e5/historical/zantout2025_crover_gswp3-w5e5_obsclim_histsoc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/fc621d52-1c43-41a3-b27c-a04d0754d1cc/"
+    },
+    {
+        "id": "4efbb0cb-0694-47b5-a95f-ce38dd4ac79b",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/CYGMA1P74/gswp3-w5e5/historical/zantout2025_cygma1p74_gswp3-w5e5_obsclim_histsoc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4efbb0cb-0694-47b5-a95f-ce38dd4ac79b/"
+    },
+    {
+        "id": "0e8a905d-0bb6-47b5-ad3d-f5953dbb1a35",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/EPIC-IIASA/gswp3-w5e5/historical/zantout2025_epic-iiasa_gswp3-w5e5_obsclim_histsoc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/0e8a905d-0bb6-47b5-ad3d-f5953dbb1a35/"
+    },
+    {
+        "id": "ca4c10f3-8115-4390-97a5-d5464cb4e1f8",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/HWMID-NONE/20crv3-era5/historical/zantout2025_hwmid-none_20crv3-era5_counterclim_histsoc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/ca4c10f3-8115-4390-97a5-d5464cb4e1f8/"
+    },
+    {
+        "id": "9d82ef3e-a7dd-442e-bd32-90d8719f61e9",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/HWMID-NONE/20crv3-era5/historical/zantout2025_hwmid-none_20crv3-era5_obsclim_histsoc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/9d82ef3e-a7dd-442e-bd32-90d8719f61e9/"
+    },
+    {
+        "id": "12698771-1963-4b14-9f93-a9d72bf7a7ba",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/HWMID-NONE/20crv3/historical/zantout2025_hwmid-none_20crv3_counterclim_histsoc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/12698771-1963-4b14-9f93-a9d72bf7a7ba/"
+    },
+    {
+        "id": "58d49582-3ceb-4eb4-9e8d-6526b835a600",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/HWMID-NONE/20crv3/historical/zantout2025_hwmid-none_20crv3_obsclim_histsoc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/58d49582-3ceb-4eb4-9e8d-6526b835a600/"
+    },
+    {
+        "id": "0043e1bb-810f-47f9-b8fa-99eeb1fb6ca1",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/HWMID-NONE/20crv3-w5e5/historical/zantout2025_hwmid-none_20crv3-w5e5_counterclim_histsoc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/0043e1bb-810f-47f9-b8fa-99eeb1fb6ca1/"
+    },
+    {
+        "id": "103e1932-fced-48dd-af40-ed61b963bb77",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/HWMID-NONE/20crv3-w5e5/historical/zantout2025_hwmid-none_20crv3-w5e5_obsclim_histsoc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/103e1932-fced-48dd-af40-ed61b963bb77/"
+    },
+    {
+        "id": "5957ed70-42e3-49ec-a68a-0da02ea24147",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/HWMID-NONE/gswp3-w5e5/historical/zantout2025_hwmid-none_gswp3-w5e5_counterclim_histsoc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/5957ed70-42e3-49ec-a68a-0da02ea24147/"
+    },
+    {
+        "id": "a469f4fa-4ab6-4d50-98a4-5060e370e0fe",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/HWMID-NONE/gswp3-w5e5/historical/zantout2025_hwmid-none_gswp3-w5e5_obsclim_histsoc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a469f4fa-4ab6-4d50-98a4-5060e370e0fe/"
+    },
+    {
+        "id": "b5cd1b6b-d0f7-4afb-afe4-679c27ef2ff9",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/ISAM/gswp3-w5e5/historical/zantout2025_isam_gswp3-w5e5_obsclim_histsoc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/b5cd1b6b-d0f7-4afb-afe4-679c27ef2ff9/"
+    },
+    {
+        "id": "6db859d7-dfe9-45dc-a054-d24ec9a0943a",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/LDNDC/gswp3-w5e5/historical/zantout2025_ldndc_gswp3-w5e5_obsclim_histsoc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/6db859d7-dfe9-45dc-a054-d24ec9a0943a/"
+    },
+    {
+        "id": "b33f610f-ddde-4e34-acb9-d2e471fde803",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/20crv3-era5/historical/zantout2025_lpjml5-7-10-fire_20crv3-era5_counterclim_histsoc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/b33f610f-ddde-4e34-acb9-d2e471fde803/"
+    },
+    {
+        "id": "b6785320-bbc9-4b2e-b149-204c7ae5e2d3",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/20crv3-era5/historical/zantout2025_lpjml5-7-10-fire_20crv3-era5_obsclim_histsoc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/b6785320-bbc9-4b2e-b149-204c7ae5e2d3/"
+    },
+    {
+        "id": "9985c2e1-d99c-4892-8df3-f506d849b077",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/20crv3/historical/zantout2025_lpjml5-7-10-fire_20crv3_counterclim_histsoc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/9985c2e1-d99c-4892-8df3-f506d849b077/"
+    },
+    {
+        "id": "6c931733-f4d2-4117-81b2-e134837f6f3e",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/20crv3/historical/zantout2025_lpjml5-7-10-fire_20crv3_obsclim_histsoc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/6c931733-f4d2-4117-81b2-e134837f6f3e/"
+    },
+    {
+        "id": "49b0ecd1-bb29-4edb-8634-552e62b01741",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/20crv3-w5e5/historical/zantout2025_lpjml5-7-10-fire_20crv3-w5e5_counterclim_histsoc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/49b0ecd1-bb29-4edb-8634-552e62b01741/"
+    },
+    {
+        "id": "67af99bb-a73c-4c4d-a906-decbd00ca80b",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/20crv3-w5e5/historical/zantout2025_lpjml5-7-10-fire_20crv3-w5e5_obsclim_histsoc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/67af99bb-a73c-4c4d-a906-decbd00ca80b/"
+    },
+    {
+        "id": "683ae52b-10a8-4216-b4cc-d3dc9975ddb7",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/gswp3-w5e5/historical/zantout2025_lpjml5-7-10-fire_gswp3-w5e5_counterclim_histsoc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/683ae52b-10a8-4216-b4cc-d3dc9975ddb7/"
+    },
+    {
+        "id": "59a4b878-844d-4d8d-80ed-a20557e058d5",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/gswp3-w5e5/historical/zantout2025_lpjml5-7-10-fire_gswp3-w5e5_obsclim_histsoc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/59a4b878-844d-4d8d-80ed-a20557e058d5/"
+    },
+    {
+        "id": "12c9afab-bbfd-42b7-b51c-0101bade66e6",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/LPJML/gswp3-w5e5/historical/zantout2025_lpjml_gswp3-w5e5_obsclim_histsoc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/12c9afab-bbfd-42b7-b51c-0101bade66e6/"
+    },
+    {
+        "id": "e25bff8b-53fa-4458-8a72-684e1786e2c6",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/PDSSAT/gswp3-w5e5/historical/zantout2025_pdssat_gswp3-w5e5_obsclim_histsoc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/e25bff8b-53fa-4458-8a72-684e1786e2c6/"
+    },
+    {
+        "id": "523ee5ed-d458-4228-8b90-f28a020a7e65",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/PEPIC/gswp3-w5e5/historical/zantout2025_pepic_gswp3-w5e5_obsclim_histsoc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/523ee5ed-d458-4228-8b90-f28a020a7e65/"
+    },
+    {
+        "id": "84a2995f-bd06-4590-8700-114ce5b1afab",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/PROMET/gswp3-w5e5/historical/zantout2025_promet_gswp3-w5e5_obsclim_histsoc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/84a2995f-bd06-4590-8700-114ce5b1afab/"
+    },
+    {
+        "id": "84f7b503-1fd6-4027-aa39-d9f6fe901167",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/VISIT/gswp3-w5e5/historical/zantout2025_visit_gswp3-w5e5_counterclim_histsoc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/84f7b503-1fd6-4027-aa39-d9f6fe901167/"
+    },
+    {
+        "id": "83d36c91-0351-441d-894c-be7a36b4efc2",
+        "path": "ISIMIP3a/DerivedOutputData/Zantout2025/VISIT/gswp3-w5e5/historical/zantout2025_visit_gswp3-w5e5_obsclim_histsoc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/83d36c91-0351-441d-894c-be7a36b4efc2/"
+    },
+    {
+        "id": "3edeb94f-946f-4e7a-a19a-2b4f1ea4bbd7",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CLASSIC/gfdl-esm4/future/zantout2025_classic_gfdl-esm4_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/3edeb94f-946f-4e7a-a19a-2b4f1ea4bbd7/"
+    },
+    {
+        "id": "931b5714-257f-416e-9e95-099410ba58f6",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CLASSIC/gfdl-esm4/future/zantout2025_classic_gfdl-esm4_w5e5_ssp126_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/931b5714-257f-416e-9e95-099410ba58f6/"
+    },
+    {
+        "id": "e9f43e09-210a-4baf-ac02-50969349df2b",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CLASSIC/gfdl-esm4/future/zantout2025_classic_gfdl-esm4_w5e5_ssp370_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/e9f43e09-210a-4baf-ac02-50969349df2b/"
+    },
+    {
+        "id": "11287127-fadc-4088-85e0-e9d710cc7063",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CLASSIC/gfdl-esm4/future/zantout2025_classic_gfdl-esm4_w5e5_ssp585_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/11287127-fadc-4088-85e0-e9d710cc7063/"
+    },
+    {
+        "id": "24f5eec3-c6b0-46f8-ad24-efe757d03e31",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CLASSIC/gfdl-esm4/historical/zantout2025_classic_gfdl-esm4_w5e5_historical_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/24f5eec3-c6b0-46f8-ad24-efe757d03e31/"
+    },
+    {
+        "id": "94742906-4261-421b-a629-6d4d60e77577",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CLASSIC/gfdl-esm4/historical/zantout2025_classic_gfdl-esm4_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/94742906-4261-421b-a629-6d4d60e77577/"
+    },
+    {
+        "id": "c00b8d38-a72c-457b-aa35-324b70337a65",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CLASSIC/ukesm1-0-ll/future/zantout2025_classic_ukesm1-0-ll_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c00b8d38-a72c-457b-aa35-324b70337a65/"
+    },
+    {
+        "id": "890817ba-b344-4ce3-a8df-9cafefca691f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CLASSIC/ukesm1-0-ll/future/zantout2025_classic_ukesm1-0-ll_w5e5_ssp126_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/890817ba-b344-4ce3-a8df-9cafefca691f/"
+    },
+    {
+        "id": "0d2e97cb-87e1-4e70-8178-02f838822446",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CLASSIC/ukesm1-0-ll/future/zantout2025_classic_ukesm1-0-ll_w5e5_ssp370_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/0d2e97cb-87e1-4e70-8178-02f838822446/"
+    },
+    {
+        "id": "57eb38ba-c86e-41b4-adec-8b52cc2a5902",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CLASSIC/ukesm1-0-ll/future/zantout2025_classic_ukesm1-0-ll_w5e5_ssp585_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/57eb38ba-c86e-41b4-adec-8b52cc2a5902/"
+    },
+    {
+        "id": "31eeffc1-d88e-42a2-b600-3ca541e302b5",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CLASSIC/ukesm1-0-ll/historical/zantout2025_classic_ukesm1-0-ll_w5e5_historical_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/31eeffc1-d88e-42a2-b600-3ca541e302b5/"
+    },
+    {
+        "id": "4d0f2dff-9c5c-48b8-9332-ef84695f6d0d",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CLASSIC/ukesm1-0-ll/historical/zantout2025_classic_ukesm1-0-ll_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4d0f2dff-9c5c-48b8-9332-ef84695f6d0d/"
+    },
+    {
+        "id": "ddae63ff-95d4-43df-bf19-5fe94f1ff93d",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/gfdl-esm4/future/zantout2025_crover_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/ddae63ff-95d4-43df-bf19-5fe94f1ff93d/"
+    },
+    {
+        "id": "973abfc9-5d65-4891-be69-5539e7ecec53",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/gfdl-esm4/future/zantout2025_crover_gfdl-esm4_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/973abfc9-5d65-4891-be69-5539e7ecec53/"
+    },
+    {
+        "id": "fabb50e7-1536-49a6-8a69-52d2d068a77a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/gfdl-esm4/future/zantout2025_crover_gfdl-esm4_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/fabb50e7-1536-49a6-8a69-52d2d068a77a/"
+    },
+    {
+        "id": "448b01b3-3f64-4c65-a9aa-fb9a240c675b",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/gfdl-esm4/future/zantout2025_crover_gfdl-esm4_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/448b01b3-3f64-4c65-a9aa-fb9a240c675b/"
+    },
+    {
+        "id": "3d3ce0f4-9b5d-4434-b6ea-274749c27d3f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/gfdl-esm4/historical/zantout2025_crover_gfdl-esm4_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/3d3ce0f4-9b5d-4434-b6ea-274749c27d3f/"
+    },
+    {
+        "id": "73a6d2bf-7c2c-40b3-99b2-269076f8883f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/gfdl-esm4/historical/zantout2025_crover_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/73a6d2bf-7c2c-40b3-99b2-269076f8883f/"
+    },
+    {
+        "id": "3aeaec7f-3ba6-4c66-a718-eda588c1efb1",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/ipsl-cm6a-lr/future/zantout2025_crover_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/3aeaec7f-3ba6-4c66-a718-eda588c1efb1/"
+    },
+    {
+        "id": "a9947c13-b216-40f3-a581-d17579e51b59",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/ipsl-cm6a-lr/future/zantout2025_crover_ipsl-cm6a-lr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a9947c13-b216-40f3-a581-d17579e51b59/"
+    },
+    {
+        "id": "3c0ba067-0f4f-4d61-b2e0-18bda5f238d2",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/ipsl-cm6a-lr/future/zantout2025_crover_ipsl-cm6a-lr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/3c0ba067-0f4f-4d61-b2e0-18bda5f238d2/"
+    },
+    {
+        "id": "093d88bd-92d5-4335-97ed-7e6555be2f54",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/ipsl-cm6a-lr/future/zantout2025_crover_ipsl-cm6a-lr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/093d88bd-92d5-4335-97ed-7e6555be2f54/"
+    },
+    {
+        "id": "26312a62-05e2-4264-ab9f-3ab24f8a2b92",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/ipsl-cm6a-lr/historical/zantout2025_crover_ipsl-cm6a-lr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/26312a62-05e2-4264-ab9f-3ab24f8a2b92/"
+    },
+    {
+        "id": "1efa16da-cd1d-4947-a6e3-f0f9b3f3fd11",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/ipsl-cm6a-lr/historical/zantout2025_crover_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/1efa16da-cd1d-4947-a6e3-f0f9b3f3fd11/"
+    },
+    {
+        "id": "51300167-6274-4ce2-b897-a82b9d4d46e4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/mpi-esm1-2-hr/future/zantout2025_crover_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/51300167-6274-4ce2-b897-a82b9d4d46e4/"
+    },
+    {
+        "id": "93aacc47-7ee5-4775-96d3-5e514b508ec1",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/mpi-esm1-2-hr/future/zantout2025_crover_mpi-esm1-2-hr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/93aacc47-7ee5-4775-96d3-5e514b508ec1/"
+    },
+    {
+        "id": "c0a4d8f9-39c0-4e84-8de7-db82009de917",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/mpi-esm1-2-hr/future/zantout2025_crover_mpi-esm1-2-hr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c0a4d8f9-39c0-4e84-8de7-db82009de917/"
+    },
+    {
+        "id": "6d0227b6-907c-4dd5-b250-d845b503a83a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/mpi-esm1-2-hr/future/zantout2025_crover_mpi-esm1-2-hr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/6d0227b6-907c-4dd5-b250-d845b503a83a/"
+    },
+    {
+        "id": "ca6b5d2b-4ad2-42a5-a505-994ffa360d45",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/mpi-esm1-2-hr/historical/zantout2025_crover_mpi-esm1-2-hr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/ca6b5d2b-4ad2-42a5-a505-994ffa360d45/"
+    },
+    {
+        "id": "6a4de163-d3c9-43f7-ab33-540e8d21ea7a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/mpi-esm1-2-hr/historical/zantout2025_crover_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/6a4de163-d3c9-43f7-ab33-540e8d21ea7a/"
+    },
+    {
+        "id": "d4ce6b4f-e45f-4d1b-9aef-e2502cfeb46b",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/mri-esm2-0/future/zantout2025_crover_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/d4ce6b4f-e45f-4d1b-9aef-e2502cfeb46b/"
+    },
+    {
+        "id": "9648edc6-e66c-4db2-8b28-1db78c6113c4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/mri-esm2-0/future/zantout2025_crover_mri-esm2-0_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/9648edc6-e66c-4db2-8b28-1db78c6113c4/"
+    },
+    {
+        "id": "e080ef9e-aeae-42e3-bde3-d96bcaba75df",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/mri-esm2-0/future/zantout2025_crover_mri-esm2-0_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/e080ef9e-aeae-42e3-bde3-d96bcaba75df/"
+    },
+    {
+        "id": "6306c15a-b6e7-4e0e-99d4-6d6361eb1ee4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/mri-esm2-0/future/zantout2025_crover_mri-esm2-0_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/6306c15a-b6e7-4e0e-99d4-6d6361eb1ee4/"
+    },
+    {
+        "id": "8e9b89bf-e662-42f7-a7f3-ad35f6311634",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/mri-esm2-0/historical/zantout2025_crover_mri-esm2-0_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/8e9b89bf-e662-42f7-a7f3-ad35f6311634/"
+    },
+    {
+        "id": "92f4b29f-f5bb-475b-87a9-036e7f73a8aa",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/mri-esm2-0/historical/zantout2025_crover_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/92f4b29f-f5bb-475b-87a9-036e7f73a8aa/"
+    },
+    {
+        "id": "b2d75ecf-1bf9-42dd-9d7a-f65135909bb9",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/ukesm1-0-ll/future/zantout2025_crover_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/b2d75ecf-1bf9-42dd-9d7a-f65135909bb9/"
+    },
+    {
+        "id": "119a3c93-27a9-443a-aff0-1b5639fab134",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/ukesm1-0-ll/future/zantout2025_crover_ukesm1-0-ll_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/119a3c93-27a9-443a-aff0-1b5639fab134/"
+    },
+    {
+        "id": "4d81f22d-0ec5-4976-ab17-dd3bfbaaef7d",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/ukesm1-0-ll/future/zantout2025_crover_ukesm1-0-ll_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4d81f22d-0ec5-4976-ab17-dd3bfbaaef7d/"
+    },
+    {
+        "id": "057b380d-1dee-4bb1-a861-158377601106",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/ukesm1-0-ll/future/zantout2025_crover_ukesm1-0-ll_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/057b380d-1dee-4bb1-a861-158377601106/"
+    },
+    {
+        "id": "d489a25f-9793-4434-845d-bddf5bfe1bb6",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/ukesm1-0-ll/historical/zantout2025_crover_ukesm1-0-ll_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/d489a25f-9793-4434-845d-bddf5bfe1bb6/"
+    },
+    {
+        "id": "4d89b960-064d-4c34-bac5-420d7f760893",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CROVER/ukesm1-0-ll/historical/zantout2025_crover_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4d89b960-064d-4c34-bac5-420d7f760893/"
+    },
+    {
+        "id": "f879ade2-89a0-435c-8234-96d42f927b90",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/gfdl-esm4/future/zantout2025_cygma1p74_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f879ade2-89a0-435c-8234-96d42f927b90/"
+    },
+    {
+        "id": "01435747-0aa2-4767-9eba-5d9ae43f7282",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/gfdl-esm4/future/zantout2025_cygma1p74_gfdl-esm4_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/01435747-0aa2-4767-9eba-5d9ae43f7282/"
+    },
+    {
+        "id": "3edb634c-f0b8-46f6-8e0b-6d09b586f116",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/gfdl-esm4/future/zantout2025_cygma1p74_gfdl-esm4_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/3edb634c-f0b8-46f6-8e0b-6d09b586f116/"
+    },
+    {
+        "id": "c13f7873-1748-415e-a0da-cabab4bb7bb5",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/gfdl-esm4/future/zantout2025_cygma1p74_gfdl-esm4_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c13f7873-1748-415e-a0da-cabab4bb7bb5/"
+    },
+    {
+        "id": "76159a86-e750-4973-a380-27eb46dc23f4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/gfdl-esm4/historical/zantout2025_cygma1p74_gfdl-esm4_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/76159a86-e750-4973-a380-27eb46dc23f4/"
+    },
+    {
+        "id": "43f10318-5939-4a2e-8523-351fd41cf506",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/gfdl-esm4/historical/zantout2025_cygma1p74_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/43f10318-5939-4a2e-8523-351fd41cf506/"
+    },
+    {
+        "id": "0e2d65ba-2699-4a9f-ac9d-bc0de3d8b13f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/ipsl-cm6a-lr/future/zantout2025_cygma1p74_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/0e2d65ba-2699-4a9f-ac9d-bc0de3d8b13f/"
+    },
+    {
+        "id": "146c4f69-a7e0-472f-adb1-a7bfbd0f8fc3",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/ipsl-cm6a-lr/future/zantout2025_cygma1p74_ipsl-cm6a-lr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/146c4f69-a7e0-472f-adb1-a7bfbd0f8fc3/"
+    },
+    {
+        "id": "b2acba9b-50b7-406c-80a8-811de7ad5613",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/ipsl-cm6a-lr/future/zantout2025_cygma1p74_ipsl-cm6a-lr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/b2acba9b-50b7-406c-80a8-811de7ad5613/"
+    },
+    {
+        "id": "f186832f-441d-4254-9631-9ac98195e406",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/ipsl-cm6a-lr/future/zantout2025_cygma1p74_ipsl-cm6a-lr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f186832f-441d-4254-9631-9ac98195e406/"
+    },
+    {
+        "id": "4d2330f9-5fc8-4a95-a8a7-8edb0132eeb4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/ipsl-cm6a-lr/historical/zantout2025_cygma1p74_ipsl-cm6a-lr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4d2330f9-5fc8-4a95-a8a7-8edb0132eeb4/"
+    },
+    {
+        "id": "47f6476a-c283-4c08-81e0-157f73a4f884",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/ipsl-cm6a-lr/historical/zantout2025_cygma1p74_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/47f6476a-c283-4c08-81e0-157f73a4f884/"
+    },
+    {
+        "id": "14b92219-706f-40c7-be16-b8a3e6587183",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/mpi-esm1-2-hr/future/zantout2025_cygma1p74_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/14b92219-706f-40c7-be16-b8a3e6587183/"
+    },
+    {
+        "id": "ba30b070-cd10-4017-ab98-30f5526baec4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/mpi-esm1-2-hr/future/zantout2025_cygma1p74_mpi-esm1-2-hr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/ba30b070-cd10-4017-ab98-30f5526baec4/"
+    },
+    {
+        "id": "aeda3608-2d41-406a-b8c5-1b480673f70e",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/mpi-esm1-2-hr/future/zantout2025_cygma1p74_mpi-esm1-2-hr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/aeda3608-2d41-406a-b8c5-1b480673f70e/"
+    },
+    {
+        "id": "7167c555-f990-401f-aa68-d114e3f3ba28",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/mpi-esm1-2-hr/future/zantout2025_cygma1p74_mpi-esm1-2-hr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/7167c555-f990-401f-aa68-d114e3f3ba28/"
+    },
+    {
+        "id": "d9b60965-1cd4-4309-9ebb-1a54ca5d4e52",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/mpi-esm1-2-hr/historical/zantout2025_cygma1p74_mpi-esm1-2-hr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/d9b60965-1cd4-4309-9ebb-1a54ca5d4e52/"
+    },
+    {
+        "id": "8fdd7156-f274-4304-81b0-693e8b9d644e",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/mpi-esm1-2-hr/historical/zantout2025_cygma1p74_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/8fdd7156-f274-4304-81b0-693e8b9d644e/"
+    },
+    {
+        "id": "8acc5623-ec93-445f-8535-94729aa11318",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/mri-esm2-0/future/zantout2025_cygma1p74_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/8acc5623-ec93-445f-8535-94729aa11318/"
+    },
+    {
+        "id": "74ec5291-c8d1-45ab-a3b5-e3b441caeba7",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/mri-esm2-0/future/zantout2025_cygma1p74_mri-esm2-0_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/74ec5291-c8d1-45ab-a3b5-e3b441caeba7/"
+    },
+    {
+        "id": "d6d9a841-1631-4ef1-9582-80512d8db597",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/mri-esm2-0/future/zantout2025_cygma1p74_mri-esm2-0_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/d6d9a841-1631-4ef1-9582-80512d8db597/"
+    },
+    {
+        "id": "dab1b18e-0fd8-44c4-98d1-9cc5cc67f62a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/mri-esm2-0/future/zantout2025_cygma1p74_mri-esm2-0_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/dab1b18e-0fd8-44c4-98d1-9cc5cc67f62a/"
+    },
+    {
+        "id": "06909030-e208-4b4c-bd3d-8b286142463d",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/mri-esm2-0/historical/zantout2025_cygma1p74_mri-esm2-0_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/06909030-e208-4b4c-bd3d-8b286142463d/"
+    },
+    {
+        "id": "26efcf8c-c649-4397-97a8-b9756d2c5965",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/mri-esm2-0/historical/zantout2025_cygma1p74_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/26efcf8c-c649-4397-97a8-b9756d2c5965/"
+    },
+    {
+        "id": "3819ba52-9bbe-40cf-8e10-d4c2f996e04a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/ukesm1-0-ll/future/zantout2025_cygma1p74_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/3819ba52-9bbe-40cf-8e10-d4c2f996e04a/"
+    },
+    {
+        "id": "1a1d58b9-7fc6-49c7-8564-b8f35b1eb7e4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/ukesm1-0-ll/future/zantout2025_cygma1p74_ukesm1-0-ll_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/1a1d58b9-7fc6-49c7-8564-b8f35b1eb7e4/"
+    },
+    {
+        "id": "bd5f910e-ef26-449b-b0e7-1a59e7208c7b",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/ukesm1-0-ll/future/zantout2025_cygma1p74_ukesm1-0-ll_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/bd5f910e-ef26-449b-b0e7-1a59e7208c7b/"
+    },
+    {
+        "id": "f0c93bfc-2536-4511-9664-ea887b31d342",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/ukesm1-0-ll/future/zantout2025_cygma1p74_ukesm1-0-ll_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f0c93bfc-2536-4511-9664-ea887b31d342/"
+    },
+    {
+        "id": "1b2045fa-1ba9-43af-9357-7fc69934a4b2",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/ukesm1-0-ll/historical/zantout2025_cygma1p74_ukesm1-0-ll_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/1b2045fa-1ba9-43af-9357-7fc69934a4b2/"
+    },
+    {
+        "id": "d1f8a35a-8a95-4f6b-bba3-679640c261f7",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/CYGMA1P74/ukesm1-0-ll/historical/zantout2025_cygma1p74_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/d1f8a35a-8a95-4f6b-bba3-679640c261f7/"
+    },
+    {
+        "id": "388d2d51-1995-4bc3-a710-9ba0f86aac7e",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/gfdl-esm4/future/zantout2025_epic-iiasa_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/388d2d51-1995-4bc3-a710-9ba0f86aac7e/"
+    },
+    {
+        "id": "4cf143a5-d153-4753-951b-30bfcc8fadd7",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/gfdl-esm4/future/zantout2025_epic-iiasa_gfdl-esm4_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4cf143a5-d153-4753-951b-30bfcc8fadd7/"
+    },
+    {
+        "id": "ff7c2614-6fc7-42ed-a388-a71876070bdd",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/gfdl-esm4/future/zantout2025_epic-iiasa_gfdl-esm4_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/ff7c2614-6fc7-42ed-a388-a71876070bdd/"
+    },
+    {
+        "id": "ea243183-830e-43c6-8974-2727692a6a04",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/gfdl-esm4/future/zantout2025_epic-iiasa_gfdl-esm4_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/ea243183-830e-43c6-8974-2727692a6a04/"
+    },
+    {
+        "id": "cb1680ca-b4a3-49c2-8e27-b53b44025bb9",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/gfdl-esm4/historical/zantout2025_epic-iiasa_gfdl-esm4_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/cb1680ca-b4a3-49c2-8e27-b53b44025bb9/"
+    },
+    {
+        "id": "2ef09a92-b9c8-42b8-8164-5770f579aa75",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/gfdl-esm4/historical/zantout2025_epic-iiasa_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/2ef09a92-b9c8-42b8-8164-5770f579aa75/"
+    },
+    {
+        "id": "38823a15-03fd-4da4-9031-effdfae84fea",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/ipsl-cm6a-lr/future/zantout2025_epic-iiasa_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/38823a15-03fd-4da4-9031-effdfae84fea/"
+    },
+    {
+        "id": "04931828-b2ea-4e3a-87fd-2d07c8cc5a70",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/ipsl-cm6a-lr/future/zantout2025_epic-iiasa_ipsl-cm6a-lr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/04931828-b2ea-4e3a-87fd-2d07c8cc5a70/"
+    },
+    {
+        "id": "501cae19-c3d6-4c81-b3fe-8f0db74f0e1e",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/ipsl-cm6a-lr/future/zantout2025_epic-iiasa_ipsl-cm6a-lr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/501cae19-c3d6-4c81-b3fe-8f0db74f0e1e/"
+    },
+    {
+        "id": "9ff3925f-9307-4db1-85d4-d1a999092d45",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/ipsl-cm6a-lr/future/zantout2025_epic-iiasa_ipsl-cm6a-lr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/9ff3925f-9307-4db1-85d4-d1a999092d45/"
+    },
+    {
+        "id": "c5ce6907-1281-44ec-9712-61f168d2a329",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/ipsl-cm6a-lr/historical/zantout2025_epic-iiasa_ipsl-cm6a-lr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c5ce6907-1281-44ec-9712-61f168d2a329/"
+    },
+    {
+        "id": "4dad00b2-a5e6-4033-a554-b848ece99a36",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/ipsl-cm6a-lr/historical/zantout2025_epic-iiasa_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4dad00b2-a5e6-4033-a554-b848ece99a36/"
+    },
+    {
+        "id": "51527d4d-2e8e-4375-83f2-5255c47702fc",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/mpi-esm1-2-hr/future/zantout2025_epic-iiasa_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/51527d4d-2e8e-4375-83f2-5255c47702fc/"
+    },
+    {
+        "id": "cd26e8e7-3db4-4bfd-919a-94685e5f82e3",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/mpi-esm1-2-hr/future/zantout2025_epic-iiasa_mpi-esm1-2-hr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/cd26e8e7-3db4-4bfd-919a-94685e5f82e3/"
+    },
+    {
+        "id": "28c94dba-fb14-4bc6-9540-ba7b69ac27b2",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/mpi-esm1-2-hr/future/zantout2025_epic-iiasa_mpi-esm1-2-hr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/28c94dba-fb14-4bc6-9540-ba7b69ac27b2/"
+    },
+    {
+        "id": "b0398b74-6c8b-48ae-9b59-1284dea22fb0",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/mpi-esm1-2-hr/future/zantout2025_epic-iiasa_mpi-esm1-2-hr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/b0398b74-6c8b-48ae-9b59-1284dea22fb0/"
+    },
+    {
+        "id": "6d62e76f-3346-48cb-b71c-e7ead2df2ba4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/mpi-esm1-2-hr/historical/zantout2025_epic-iiasa_mpi-esm1-2-hr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/6d62e76f-3346-48cb-b71c-e7ead2df2ba4/"
+    },
+    {
+        "id": "cbf04404-763c-4e86-845c-1ab82017e927",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/mpi-esm1-2-hr/historical/zantout2025_epic-iiasa_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/cbf04404-763c-4e86-845c-1ab82017e927/"
+    },
+    {
+        "id": "915935e6-61ac-4df7-82bb-dfb78a83d5d0",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/mri-esm2-0/future/zantout2025_epic-iiasa_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/915935e6-61ac-4df7-82bb-dfb78a83d5d0/"
+    },
+    {
+        "id": "71e5f251-e078-4eea-9c91-90f131cf7db0",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/mri-esm2-0/future/zantout2025_epic-iiasa_mri-esm2-0_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/71e5f251-e078-4eea-9c91-90f131cf7db0/"
+    },
+    {
+        "id": "b4d5a126-c86c-4ae4-9933-2f84121ed9d2",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/mri-esm2-0/future/zantout2025_epic-iiasa_mri-esm2-0_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/b4d5a126-c86c-4ae4-9933-2f84121ed9d2/"
+    },
+    {
+        "id": "e2bb8c93-e04a-4954-9c9a-3d31b1078022",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/mri-esm2-0/future/zantout2025_epic-iiasa_mri-esm2-0_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/e2bb8c93-e04a-4954-9c9a-3d31b1078022/"
+    },
+    {
+        "id": "0a5eab10-50e1-41fa-89dc-63cda269f3f2",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/mri-esm2-0/historical/zantout2025_epic-iiasa_mri-esm2-0_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/0a5eab10-50e1-41fa-89dc-63cda269f3f2/"
+    },
+    {
+        "id": "bd1cee96-3077-458d-8469-7c33523dd6ba",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/mri-esm2-0/historical/zantout2025_epic-iiasa_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/bd1cee96-3077-458d-8469-7c33523dd6ba/"
+    },
+    {
+        "id": "993737ed-2a46-4bd3-9593-6f0c04165d73",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/ukesm1-0-ll/future/zantout2025_epic-iiasa_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/993737ed-2a46-4bd3-9593-6f0c04165d73/"
+    },
+    {
+        "id": "4972f114-6ca6-44b0-9d35-5048fab05cf1",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/ukesm1-0-ll/future/zantout2025_epic-iiasa_ukesm1-0-ll_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4972f114-6ca6-44b0-9d35-5048fab05cf1/"
+    },
+    {
+        "id": "ade70a5d-1230-418c-a7ca-c4e9920faa49",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/ukesm1-0-ll/future/zantout2025_epic-iiasa_ukesm1-0-ll_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/ade70a5d-1230-418c-a7ca-c4e9920faa49/"
+    },
+    {
+        "id": "a80f00a8-99a7-4c01-adf3-e316641c328d",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/ukesm1-0-ll/future/zantout2025_epic-iiasa_ukesm1-0-ll_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a80f00a8-99a7-4c01-adf3-e316641c328d/"
+    },
+    {
+        "id": "4fc0d48d-69e2-454d-8cd9-583aa5842be0",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/ukesm1-0-ll/historical/zantout2025_epic-iiasa_ukesm1-0-ll_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4fc0d48d-69e2-454d-8cd9-583aa5842be0/"
+    },
+    {
+        "id": "471fec07-2812-4e5a-b383-60eaab4859b9",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/EPIC-IIASA/ukesm1-0-ll/historical/zantout2025_epic-iiasa_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/471fec07-2812-4e5a-b383-60eaab4859b9/"
+    },
+    {
+        "id": "a121b2fb-8dca-4b4a-98d1-4c3188a63c94",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/gfdl-esm4/future/zantout2025_hwmid-none_gfdl-esm4_w5e5_picontrol_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a121b2fb-8dca-4b4a-98d1-4c3188a63c94/"
+    },
+    {
+        "id": "214372ad-548c-4aa9-92c6-f1636026ab54",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/gfdl-esm4/future/zantout2025_hwmid-none_gfdl-esm4_w5e5_ssp126_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/214372ad-548c-4aa9-92c6-f1636026ab54/"
+    },
+    {
+        "id": "2c94e456-78f0-441f-9cb3-19c2b65b19f9",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/gfdl-esm4/future/zantout2025_hwmid-none_gfdl-esm4_w5e5_ssp370_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/2c94e456-78f0-441f-9cb3-19c2b65b19f9/"
+    },
+    {
+        "id": "b06f77d1-97a3-4dc2-9870-47d9732f2bea",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/gfdl-esm4/future/zantout2025_hwmid-none_gfdl-esm4_w5e5_ssp585_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/b06f77d1-97a3-4dc2-9870-47d9732f2bea/"
+    },
+    {
+        "id": "a94510eb-4811-4e6d-9606-f631a458c386",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/gfdl-esm4/historical/zantout2025_hwmid-none_gfdl-esm4_w5e5_historical_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a94510eb-4811-4e6d-9606-f631a458c386/"
+    },
+    {
+        "id": "888fdd4f-9d38-4276-a2fd-5f2a70ffa098",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/gfdl-esm4/historical/zantout2025_hwmid-none_gfdl-esm4_w5e5_picontrol_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/888fdd4f-9d38-4276-a2fd-5f2a70ffa098/"
+    },
+    {
+        "id": "1884ee29-688c-40dd-b9b4-b2ff3198a836",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/ipsl-cm6a-lr/future/zantout2025_hwmid-none_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/1884ee29-688c-40dd-b9b4-b2ff3198a836/"
+    },
+    {
+        "id": "f15b8d9b-9609-4a3f-b67f-82f0d4419905",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/ipsl-cm6a-lr/future/zantout2025_hwmid-none_ipsl-cm6a-lr_w5e5_ssp126_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f15b8d9b-9609-4a3f-b67f-82f0d4419905/"
+    },
+    {
+        "id": "0468fa88-7dae-4009-ac60-0cccea9aac2c",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/ipsl-cm6a-lr/future/zantout2025_hwmid-none_ipsl-cm6a-lr_w5e5_ssp370_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/0468fa88-7dae-4009-ac60-0cccea9aac2c/"
+    },
+    {
+        "id": "caf05602-bee9-4b96-b882-58f4ccdd3f3f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/ipsl-cm6a-lr/future/zantout2025_hwmid-none_ipsl-cm6a-lr_w5e5_ssp585_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/caf05602-bee9-4b96-b882-58f4ccdd3f3f/"
+    },
+    {
+        "id": "8344c27d-f819-449a-b79c-922855fe68f4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/ipsl-cm6a-lr/historical/zantout2025_hwmid-none_ipsl-cm6a-lr_w5e5_historical_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/8344c27d-f819-449a-b79c-922855fe68f4/"
+    },
+    {
+        "id": "79403aeb-f038-487d-be20-ad32c73f13ac",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/ipsl-cm6a-lr/historical/zantout2025_hwmid-none_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/79403aeb-f038-487d-be20-ad32c73f13ac/"
+    },
+    {
+        "id": "508f51e1-6ce2-48e3-83e8-55cddda29d17",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/mpi-esm1-2-hr/future/zantout2025_hwmid-none_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/508f51e1-6ce2-48e3-83e8-55cddda29d17/"
+    },
+    {
+        "id": "a5083663-341f-4d7c-9f11-f2d08c871f3c",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/mpi-esm1-2-hr/future/zantout2025_hwmid-none_mpi-esm1-2-hr_w5e5_ssp126_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a5083663-341f-4d7c-9f11-f2d08c871f3c/"
+    },
+    {
+        "id": "86e87093-87a7-4b86-be49-71c0f430401c",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/mpi-esm1-2-hr/future/zantout2025_hwmid-none_mpi-esm1-2-hr_w5e5_ssp370_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/86e87093-87a7-4b86-be49-71c0f430401c/"
+    },
+    {
+        "id": "1f2d4f14-0e3d-4daf-907f-709ea6d5893a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/mpi-esm1-2-hr/future/zantout2025_hwmid-none_mpi-esm1-2-hr_w5e5_ssp585_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/1f2d4f14-0e3d-4daf-907f-709ea6d5893a/"
+    },
+    {
+        "id": "1de8f83e-0463-48f1-ac30-309d09ec82b6",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/mpi-esm1-2-hr/historical/zantout2025_hwmid-none_mpi-esm1-2-hr_w5e5_historical_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/1de8f83e-0463-48f1-ac30-309d09ec82b6/"
+    },
+    {
+        "id": "18c05320-18f0-426d-937f-800868f65722",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/mpi-esm1-2-hr/historical/zantout2025_hwmid-none_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/18c05320-18f0-426d-937f-800868f65722/"
+    },
+    {
+        "id": "a7232280-63b4-47d1-be83-8860d35b64bb",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/mri-esm2-0/future/zantout2025_hwmid-none_mri-esm2-0_w5e5_picontrol_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a7232280-63b4-47d1-be83-8860d35b64bb/"
+    },
+    {
+        "id": "9ee14727-7957-4b73-9e1d-08a68f1f0558",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/mri-esm2-0/future/zantout2025_hwmid-none_mri-esm2-0_w5e5_ssp126_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/9ee14727-7957-4b73-9e1d-08a68f1f0558/"
+    },
+    {
+        "id": "23c7b3fe-6a5d-4bb0-ba0a-4739de0217a3",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/mri-esm2-0/future/zantout2025_hwmid-none_mri-esm2-0_w5e5_ssp370_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/23c7b3fe-6a5d-4bb0-ba0a-4739de0217a3/"
+    },
+    {
+        "id": "6ab7f4a9-8160-492b-88a9-b09ac5499389",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/mri-esm2-0/future/zantout2025_hwmid-none_mri-esm2-0_w5e5_ssp585_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/6ab7f4a9-8160-492b-88a9-b09ac5499389/"
+    },
+    {
+        "id": "bbe56bdc-c83c-4525-820a-8db83d3cef90",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/mri-esm2-0/historical/zantout2025_hwmid-none_mri-esm2-0_w5e5_historical_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/bbe56bdc-c83c-4525-820a-8db83d3cef90/"
+    },
+    {
+        "id": "2f0ccf3a-8679-44b1-ac65-1fb9030b3aa0",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/mri-esm2-0/historical/zantout2025_hwmid-none_mri-esm2-0_w5e5_picontrol_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/2f0ccf3a-8679-44b1-ac65-1fb9030b3aa0/"
+    },
+    {
+        "id": "d5365e2a-8c1c-4a94-91d3-22344a6bf9eb",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/ukesm1-0-ll/future/zantout2025_hwmid-none_ukesm1-0-ll_w5e5_picontrol_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/d5365e2a-8c1c-4a94-91d3-22344a6bf9eb/"
+    },
+    {
+        "id": "787bab2b-1e77-4695-af75-187d50e9ac4f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/ukesm1-0-ll/future/zantout2025_hwmid-none_ukesm1-0-ll_w5e5_ssp126_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/787bab2b-1e77-4695-af75-187d50e9ac4f/"
+    },
+    {
+        "id": "3fefe362-c3c7-4836-81d6-d2fa8313b478",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/ukesm1-0-ll/future/zantout2025_hwmid-none_ukesm1-0-ll_w5e5_ssp370_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/3fefe362-c3c7-4836-81d6-d2fa8313b478/"
+    },
+    {
+        "id": "f517f09a-cb84-4190-93fa-dd56d04c8c88",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/ukesm1-0-ll/future/zantout2025_hwmid-none_ukesm1-0-ll_w5e5_ssp585_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f517f09a-cb84-4190-93fa-dd56d04c8c88/"
+    },
+    {
+        "id": "b427f263-32a1-428f-989a-db1e228d9a51",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/ukesm1-0-ll/historical/zantout2025_hwmid-none_ukesm1-0-ll_w5e5_historical_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/b427f263-32a1-428f-989a-db1e228d9a51/"
+    },
+    {
+        "id": "7a20cbe0-5b8c-4449-8358-7b1babd488dd",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/HWMID-NONE/ukesm1-0-ll/historical/zantout2025_hwmid-none_ukesm1-0-ll_w5e5_picontrol_2015soc_default_heatwave_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/7a20cbe0-5b8c-4449-8358-7b1babd488dd/"
+    },
+    {
+        "id": "c458313e-9186-4d5c-8912-a3db2c86e767",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/gfdl-esm4/future/zantout2025_isam_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c458313e-9186-4d5c-8912-a3db2c86e767/"
+    },
+    {
+        "id": "c24cdb9f-f092-45f3-b2ee-51f062858a29",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/gfdl-esm4/future/zantout2025_isam_gfdl-esm4_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c24cdb9f-f092-45f3-b2ee-51f062858a29/"
+    },
+    {
+        "id": "794736e0-00d4-4f5d-b8bb-f89912c42175",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/gfdl-esm4/future/zantout2025_isam_gfdl-esm4_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/794736e0-00d4-4f5d-b8bb-f89912c42175/"
+    },
+    {
+        "id": "9d622846-4700-49c7-b395-34dd8c4d00a0",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/gfdl-esm4/future/zantout2025_isam_gfdl-esm4_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/9d622846-4700-49c7-b395-34dd8c4d00a0/"
+    },
+    {
+        "id": "42fc84b3-9743-471f-a3ed-c9524ac83a6b",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/gfdl-esm4/historical/zantout2025_isam_gfdl-esm4_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/42fc84b3-9743-471f-a3ed-c9524ac83a6b/"
+    },
+    {
+        "id": "24eef66c-b7aa-44c7-bba3-82b5dc391d79",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/gfdl-esm4/historical/zantout2025_isam_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/24eef66c-b7aa-44c7-bba3-82b5dc391d79/"
+    },
+    {
+        "id": "01da62aa-7117-42e3-8c9f-39963060df71",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/ipsl-cm6a-lr/future/zantout2025_isam_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/01da62aa-7117-42e3-8c9f-39963060df71/"
+    },
+    {
+        "id": "8b2fbbf9-e522-4845-a518-0964dec1a594",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/ipsl-cm6a-lr/future/zantout2025_isam_ipsl-cm6a-lr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/8b2fbbf9-e522-4845-a518-0964dec1a594/"
+    },
+    {
+        "id": "5d9f5f28-807c-4347-9866-4b66d315875f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/ipsl-cm6a-lr/future/zantout2025_isam_ipsl-cm6a-lr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/5d9f5f28-807c-4347-9866-4b66d315875f/"
+    },
+    {
+        "id": "f12aa576-b2f1-4d30-aaa8-541859a0a3c6",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/ipsl-cm6a-lr/future/zantout2025_isam_ipsl-cm6a-lr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f12aa576-b2f1-4d30-aaa8-541859a0a3c6/"
+    },
+    {
+        "id": "5e9f475d-8b3c-4b71-9ea5-b0dd860fb15a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/ipsl-cm6a-lr/historical/zantout2025_isam_ipsl-cm6a-lr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/5e9f475d-8b3c-4b71-9ea5-b0dd860fb15a/"
+    },
+    {
+        "id": "7da414ad-3e4c-4115-8d64-813bc0452010",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/ipsl-cm6a-lr/historical/zantout2025_isam_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/7da414ad-3e4c-4115-8d64-813bc0452010/"
+    },
+    {
+        "id": "fa9ecfa9-d135-4eb5-8c9b-5f9fd244cd3e",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/mpi-esm1-2-hr/future/zantout2025_isam_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/fa9ecfa9-d135-4eb5-8c9b-5f9fd244cd3e/"
+    },
+    {
+        "id": "0266d4e2-9cd8-420a-83f3-47c244f088ae",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/mpi-esm1-2-hr/future/zantout2025_isam_mpi-esm1-2-hr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/0266d4e2-9cd8-420a-83f3-47c244f088ae/"
+    },
+    {
+        "id": "a01ab7b4-f7e4-487b-83cc-d774be7d604a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/mpi-esm1-2-hr/future/zantout2025_isam_mpi-esm1-2-hr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a01ab7b4-f7e4-487b-83cc-d774be7d604a/"
+    },
+    {
+        "id": "750c4428-c6bc-4dfc-b282-dd2249e84ded",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/mpi-esm1-2-hr/future/zantout2025_isam_mpi-esm1-2-hr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/750c4428-c6bc-4dfc-b282-dd2249e84ded/"
+    },
+    {
+        "id": "942123bf-bc26-4e98-9e6f-7bcffba1c8ab",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/mpi-esm1-2-hr/historical/zantout2025_isam_mpi-esm1-2-hr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/942123bf-bc26-4e98-9e6f-7bcffba1c8ab/"
+    },
+    {
+        "id": "76b12dd0-8f41-4587-b8fd-4ed778907dc5",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/mpi-esm1-2-hr/historical/zantout2025_isam_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/76b12dd0-8f41-4587-b8fd-4ed778907dc5/"
+    },
+    {
+        "id": "9f56ce1e-7e71-4754-b623-bdea6777c598",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/mri-esm2-0/future/zantout2025_isam_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/9f56ce1e-7e71-4754-b623-bdea6777c598/"
+    },
+    {
+        "id": "394e7826-d84c-4dad-97a7-280fc76144c7",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/mri-esm2-0/future/zantout2025_isam_mri-esm2-0_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/394e7826-d84c-4dad-97a7-280fc76144c7/"
+    },
+    {
+        "id": "3a6de274-ac09-4ce1-be8b-d62c7b2afda5",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/mri-esm2-0/future/zantout2025_isam_mri-esm2-0_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/3a6de274-ac09-4ce1-be8b-d62c7b2afda5/"
+    },
+    {
+        "id": "27489797-4011-4fd0-a99b-a9e312e68415",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/mri-esm2-0/future/zantout2025_isam_mri-esm2-0_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/27489797-4011-4fd0-a99b-a9e312e68415/"
+    },
+    {
+        "id": "420e4105-19ec-4acb-a20b-49fc0a5fa00a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/mri-esm2-0/historical/zantout2025_isam_mri-esm2-0_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/420e4105-19ec-4acb-a20b-49fc0a5fa00a/"
+    },
+    {
+        "id": "de8a2969-8757-451b-9cc7-02b67d70a23e",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/mri-esm2-0/historical/zantout2025_isam_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/de8a2969-8757-451b-9cc7-02b67d70a23e/"
+    },
+    {
+        "id": "2e39d3a4-b808-4f9e-a88f-4a5dfd556680",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/ukesm1-0-ll/future/zantout2025_isam_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/2e39d3a4-b808-4f9e-a88f-4a5dfd556680/"
+    },
+    {
+        "id": "496bf3f9-82b5-47f7-9c68-a698147f10a8",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/ukesm1-0-ll/future/zantout2025_isam_ukesm1-0-ll_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/496bf3f9-82b5-47f7-9c68-a698147f10a8/"
+    },
+    {
+        "id": "d63c6362-bc18-4ec5-9179-51a203f86051",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/ukesm1-0-ll/future/zantout2025_isam_ukesm1-0-ll_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/d63c6362-bc18-4ec5-9179-51a203f86051/"
+    },
+    {
+        "id": "efb450b8-eae9-4cac-90fa-3ea53eae050a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/ukesm1-0-ll/future/zantout2025_isam_ukesm1-0-ll_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/efb450b8-eae9-4cac-90fa-3ea53eae050a/"
+    },
+    {
+        "id": "ac9224bc-d76f-4614-950f-ee8b6a198e17",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/ukesm1-0-ll/historical/zantout2025_isam_ukesm1-0-ll_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/ac9224bc-d76f-4614-950f-ee8b6a198e17/"
+    },
+    {
+        "id": "af41ac31-9637-4fa9-9183-f0351c1e0e7d",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/ISAM/ukesm1-0-ll/historical/zantout2025_isam_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/af41ac31-9637-4fa9-9183-f0351c1e0e7d/"
+    },
+    {
+        "id": "811666cf-99c8-401f-9f3d-c0a683bf75fd",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/gfdl-esm4/future/zantout2025_ldndc_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/811666cf-99c8-401f-9f3d-c0a683bf75fd/"
+    },
+    {
+        "id": "5c60b671-bde6-4a07-89f2-e8bfd872d9de",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/gfdl-esm4/future/zantout2025_ldndc_gfdl-esm4_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/5c60b671-bde6-4a07-89f2-e8bfd872d9de/"
+    },
+    {
+        "id": "a09a3c4f-3c3f-4e6c-98d9-423ebc38b9e4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/gfdl-esm4/future/zantout2025_ldndc_gfdl-esm4_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a09a3c4f-3c3f-4e6c-98d9-423ebc38b9e4/"
+    },
+    {
+        "id": "84d67069-6048-4b5f-8d42-8c654b0c62b1",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/gfdl-esm4/future/zantout2025_ldndc_gfdl-esm4_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/84d67069-6048-4b5f-8d42-8c654b0c62b1/"
+    },
+    {
+        "id": "2557807c-f601-435c-8b56-e4049c352d32",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/gfdl-esm4/historical/zantout2025_ldndc_gfdl-esm4_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/2557807c-f601-435c-8b56-e4049c352d32/"
+    },
+    {
+        "id": "c7114874-61df-4c72-9a0c-97b5dd318ab0",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/gfdl-esm4/historical/zantout2025_ldndc_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c7114874-61df-4c72-9a0c-97b5dd318ab0/"
+    },
+    {
+        "id": "0423d851-48e4-45ec-aeaf-fc27ea425a2e",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/ipsl-cm6a-lr/future/zantout2025_ldndc_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/0423d851-48e4-45ec-aeaf-fc27ea425a2e/"
+    },
+    {
+        "id": "77d7e228-d465-4959-9689-08baffeb1f00",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/ipsl-cm6a-lr/future/zantout2025_ldndc_ipsl-cm6a-lr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/77d7e228-d465-4959-9689-08baffeb1f00/"
+    },
+    {
+        "id": "d4ad0b8d-74c1-42f0-bb08-0464d377ca8a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/ipsl-cm6a-lr/future/zantout2025_ldndc_ipsl-cm6a-lr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/d4ad0b8d-74c1-42f0-bb08-0464d377ca8a/"
+    },
+    {
+        "id": "1f032412-0dc9-4ade-9c4c-d691063fdb49",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/ipsl-cm6a-lr/future/zantout2025_ldndc_ipsl-cm6a-lr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/1f032412-0dc9-4ade-9c4c-d691063fdb49/"
+    },
+    {
+        "id": "ff9f660d-3cf1-416f-a3c6-71d6f61bf8ee",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/ipsl-cm6a-lr/historical/zantout2025_ldndc_ipsl-cm6a-lr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/ff9f660d-3cf1-416f-a3c6-71d6f61bf8ee/"
+    },
+    {
+        "id": "8e39aa87-57f4-4da8-967b-2b861bda1c76",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/ipsl-cm6a-lr/historical/zantout2025_ldndc_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/8e39aa87-57f4-4da8-967b-2b861bda1c76/"
+    },
+    {
+        "id": "f1330c82-f851-444d-8ace-070420cc4b27",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/mpi-esm1-2-hr/future/zantout2025_ldndc_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f1330c82-f851-444d-8ace-070420cc4b27/"
+    },
+    {
+        "id": "71af5c4e-4b76-406e-9f81-8c0c11c21645",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/mpi-esm1-2-hr/future/zantout2025_ldndc_mpi-esm1-2-hr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/71af5c4e-4b76-406e-9f81-8c0c11c21645/"
+    },
+    {
+        "id": "11bce5d3-99d1-4ceb-ab99-4d27b530aa75",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/mpi-esm1-2-hr/future/zantout2025_ldndc_mpi-esm1-2-hr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/11bce5d3-99d1-4ceb-ab99-4d27b530aa75/"
+    },
+    {
+        "id": "e7904576-c09c-4cf3-bec4-8817b6253573",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/mpi-esm1-2-hr/future/zantout2025_ldndc_mpi-esm1-2-hr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/e7904576-c09c-4cf3-bec4-8817b6253573/"
+    },
+    {
+        "id": "3fa520e3-2843-4de3-bd6c-e814a4798c10",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/mpi-esm1-2-hr/historical/zantout2025_ldndc_mpi-esm1-2-hr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/3fa520e3-2843-4de3-bd6c-e814a4798c10/"
+    },
+    {
+        "id": "f62fd00c-5c40-4295-8a97-5105c41d3747",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/mpi-esm1-2-hr/historical/zantout2025_ldndc_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f62fd00c-5c40-4295-8a97-5105c41d3747/"
+    },
+    {
+        "id": "a96ffb31-24a9-44a6-893f-79ee4e048f75",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/mri-esm2-0/future/zantout2025_ldndc_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a96ffb31-24a9-44a6-893f-79ee4e048f75/"
+    },
+    {
+        "id": "f586798d-5e49-4ee2-bcf3-0bc1b5a6d918",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/mri-esm2-0/future/zantout2025_ldndc_mri-esm2-0_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f586798d-5e49-4ee2-bcf3-0bc1b5a6d918/"
+    },
+    {
+        "id": "c5732916-c260-4c36-930e-167c2d849d3b",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/mri-esm2-0/future/zantout2025_ldndc_mri-esm2-0_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c5732916-c260-4c36-930e-167c2d849d3b/"
+    },
+    {
+        "id": "5bd3c903-4fb7-4215-8337-a64313877757",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/mri-esm2-0/future/zantout2025_ldndc_mri-esm2-0_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/5bd3c903-4fb7-4215-8337-a64313877757/"
+    },
+    {
+        "id": "4dfaa581-4114-473c-a51a-c2e11e9e5832",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/mri-esm2-0/historical/zantout2025_ldndc_mri-esm2-0_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4dfaa581-4114-473c-a51a-c2e11e9e5832/"
+    },
+    {
+        "id": "832fb41e-8a50-4a92-99e1-e28e5fd909f4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/mri-esm2-0/historical/zantout2025_ldndc_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/832fb41e-8a50-4a92-99e1-e28e5fd909f4/"
+    },
+    {
+        "id": "d4f5890a-d692-4073-9083-634b2b64ea08",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/ukesm1-0-ll/future/zantout2025_ldndc_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/d4f5890a-d692-4073-9083-634b2b64ea08/"
+    },
+    {
+        "id": "10c523b5-bc87-4747-9940-af9ce6e74d12",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/ukesm1-0-ll/future/zantout2025_ldndc_ukesm1-0-ll_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/10c523b5-bc87-4747-9940-af9ce6e74d12/"
+    },
+    {
+        "id": "f7bfe15d-a47b-4660-a5e4-de85a450ec03",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/ukesm1-0-ll/future/zantout2025_ldndc_ukesm1-0-ll_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f7bfe15d-a47b-4660-a5e4-de85a450ec03/"
+    },
+    {
+        "id": "1d7f217f-aae5-44c0-8437-1da8b5d396e8",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/ukesm1-0-ll/future/zantout2025_ldndc_ukesm1-0-ll_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/1d7f217f-aae5-44c0-8437-1da8b5d396e8/"
+    },
+    {
+        "id": "b0a3d65f-1668-44a9-b12a-f209896f4dc8",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/ukesm1-0-ll/historical/zantout2025_ldndc_ukesm1-0-ll_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/b0a3d65f-1668-44a9-b12a-f209896f4dc8/"
+    },
+    {
+        "id": "368ab779-3857-4a6a-a07c-5e8f6f239a84",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LDNDC/ukesm1-0-ll/historical/zantout2025_ldndc_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/368ab779-3857-4a6a-a07c-5e8f6f239a84/"
+    },
+    {
+        "id": "8a168b38-6bb3-412a-9c7a-42a76a3b5d84",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/gfdl-esm4/future/zantout2025_lpjml5-7-10-fire_gfdl-esm4_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/8a168b38-6bb3-412a-9c7a-42a76a3b5d84/"
+    },
+    {
+        "id": "ca0b078f-b35e-4583-a687-6694a000366f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/gfdl-esm4/future/zantout2025_lpjml5-7-10-fire_gfdl-esm4_w5e5_ssp126_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/ca0b078f-b35e-4583-a687-6694a000366f/"
+    },
+    {
+        "id": "45ecd4ee-7820-4004-af45-2ef58e33ad31",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/gfdl-esm4/future/zantout2025_lpjml5-7-10-fire_gfdl-esm4_w5e5_ssp370_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/45ecd4ee-7820-4004-af45-2ef58e33ad31/"
+    },
+    {
+        "id": "214c2e4f-f12a-4dc1-94e1-0178df5adcaa",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/gfdl-esm4/future/zantout2025_lpjml5-7-10-fire_gfdl-esm4_w5e5_ssp585_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/214c2e4f-f12a-4dc1-94e1-0178df5adcaa/"
+    },
+    {
+        "id": "924280fd-4823-4393-ac43-7dfb2bed5476",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/gfdl-esm4/historical/zantout2025_lpjml5-7-10-fire_gfdl-esm4_w5e5_historical_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/924280fd-4823-4393-ac43-7dfb2bed5476/"
+    },
+    {
+        "id": "b88d1dd6-a6c3-449e-8631-b6822841ec8d",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/gfdl-esm4/historical/zantout2025_lpjml5-7-10-fire_gfdl-esm4_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/b88d1dd6-a6c3-449e-8631-b6822841ec8d/"
+    },
+    {
+        "id": "af035f34-49b9-4a4f-9917-7adf9f75f63b",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/ipsl-cm6a-lr/future/zantout2025_lpjml5-7-10-fire_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/af035f34-49b9-4a4f-9917-7adf9f75f63b/"
+    },
+    {
+        "id": "7d9281ff-17b9-42f5-a0a8-be26fc59d5dd",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/ipsl-cm6a-lr/future/zantout2025_lpjml5-7-10-fire_ipsl-cm6a-lr_w5e5_ssp126_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/7d9281ff-17b9-42f5-a0a8-be26fc59d5dd/"
+    },
+    {
+        "id": "feb53d62-823c-4c88-8a78-d8487b1bf2cb",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/ipsl-cm6a-lr/future/zantout2025_lpjml5-7-10-fire_ipsl-cm6a-lr_w5e5_ssp370_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/feb53d62-823c-4c88-8a78-d8487b1bf2cb/"
+    },
+    {
+        "id": "3eaa8a13-e88b-44b4-a887-fd25669c6dcc",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/ipsl-cm6a-lr/future/zantout2025_lpjml5-7-10-fire_ipsl-cm6a-lr_w5e5_ssp585_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/3eaa8a13-e88b-44b4-a887-fd25669c6dcc/"
+    },
+    {
+        "id": "db1d8f2f-ee33-41bf-abfb-5484bac43b70",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/ipsl-cm6a-lr/historical/zantout2025_lpjml5-7-10-fire_ipsl-cm6a-lr_w5e5_historical_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/db1d8f2f-ee33-41bf-abfb-5484bac43b70/"
+    },
+    {
+        "id": "058e659d-a42d-46b3-bfcb-ce4eeacfaf4e",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/ipsl-cm6a-lr/historical/zantout2025_lpjml5-7-10-fire_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/058e659d-a42d-46b3-bfcb-ce4eeacfaf4e/"
+    },
+    {
+        "id": "11053de6-1c85-4d2c-947e-164e60ee0cb3",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/mpi-esm1-2-hr/future/zantout2025_lpjml5-7-10-fire_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/11053de6-1c85-4d2c-947e-164e60ee0cb3/"
+    },
+    {
+        "id": "6e96b495-9e78-49a1-a5c3-0a441342149f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/mpi-esm1-2-hr/future/zantout2025_lpjml5-7-10-fire_mpi-esm1-2-hr_w5e5_ssp126_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/6e96b495-9e78-49a1-a5c3-0a441342149f/"
+    },
+    {
+        "id": "6bf9c490-4356-4659-94db-d0afe0299bad",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/mpi-esm1-2-hr/future/zantout2025_lpjml5-7-10-fire_mpi-esm1-2-hr_w5e5_ssp370_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/6bf9c490-4356-4659-94db-d0afe0299bad/"
+    },
+    {
+        "id": "f34003a6-0e63-4af5-943f-1fae5f71d5fd",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/mpi-esm1-2-hr/future/zantout2025_lpjml5-7-10-fire_mpi-esm1-2-hr_w5e5_ssp585_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f34003a6-0e63-4af5-943f-1fae5f71d5fd/"
+    },
+    {
+        "id": "c0780ef7-2853-4849-9ddc-0b0971eb21c2",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/mpi-esm1-2-hr/historical/zantout2025_lpjml5-7-10-fire_mpi-esm1-2-hr_w5e5_historical_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c0780ef7-2853-4849-9ddc-0b0971eb21c2/"
+    },
+    {
+        "id": "2b1de507-460d-48cb-a97a-1ee1b92a0180",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/mpi-esm1-2-hr/historical/zantout2025_lpjml5-7-10-fire_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/2b1de507-460d-48cb-a97a-1ee1b92a0180/"
+    },
+    {
+        "id": "94777464-ca9b-469f-a5cc-24b1af8263cd",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/mri-esm2-0/future/zantout2025_lpjml5-7-10-fire_mri-esm2-0_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/94777464-ca9b-469f-a5cc-24b1af8263cd/"
+    },
+    {
+        "id": "26b8759e-9285-42d0-9572-0de008b02c4d",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/mri-esm2-0/future/zantout2025_lpjml5-7-10-fire_mri-esm2-0_w5e5_ssp126_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/26b8759e-9285-42d0-9572-0de008b02c4d/"
+    },
+    {
+        "id": "35e952cb-3b99-4178-bb00-c44867a0ba67",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/mri-esm2-0/future/zantout2025_lpjml5-7-10-fire_mri-esm2-0_w5e5_ssp370_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/35e952cb-3b99-4178-bb00-c44867a0ba67/"
+    },
+    {
+        "id": "df55dde8-4780-4707-8d74-1d15577ff95b",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/mri-esm2-0/future/zantout2025_lpjml5-7-10-fire_mri-esm2-0_w5e5_ssp585_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/df55dde8-4780-4707-8d74-1d15577ff95b/"
+    },
+    {
+        "id": "427f25eb-d955-4f1b-aa51-feb5ff0bdee7",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/mri-esm2-0/historical/zantout2025_lpjml5-7-10-fire_mri-esm2-0_w5e5_historical_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/427f25eb-d955-4f1b-aa51-feb5ff0bdee7/"
+    },
+    {
+        "id": "9d27aea1-684c-4af1-bb4d-a89bbf835b76",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/mri-esm2-0/historical/zantout2025_lpjml5-7-10-fire_mri-esm2-0_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/9d27aea1-684c-4af1-bb4d-a89bbf835b76/"
+    },
+    {
+        "id": "de908879-6431-41ed-8ccf-eab2aa297bcd",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/ukesm1-0-ll/future/zantout2025_lpjml5-7-10-fire_ukesm1-0-ll_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/de908879-6431-41ed-8ccf-eab2aa297bcd/"
+    },
+    {
+        "id": "4765ccf2-2209-4777-9596-b26c7397dd54",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/ukesm1-0-ll/future/zantout2025_lpjml5-7-10-fire_ukesm1-0-ll_w5e5_ssp126_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4765ccf2-2209-4777-9596-b26c7397dd54/"
+    },
+    {
+        "id": "772da4f9-6d73-4cb1-8409-a7f2fb732329",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/ukesm1-0-ll/future/zantout2025_lpjml5-7-10-fire_ukesm1-0-ll_w5e5_ssp370_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/772da4f9-6d73-4cb1-8409-a7f2fb732329/"
+    },
+    {
+        "id": "a67be3d3-1cdf-4ff8-b7bb-478e01352efb",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/ukesm1-0-ll/future/zantout2025_lpjml5-7-10-fire_ukesm1-0-ll_w5e5_ssp585_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a67be3d3-1cdf-4ff8-b7bb-478e01352efb/"
+    },
+    {
+        "id": "73033335-75ec-47c4-8e5c-b9d59efd075a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/ukesm1-0-ll/historical/zantout2025_lpjml5-7-10-fire_ukesm1-0-ll_w5e5_historical_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/73033335-75ec-47c4-8e5c-b9d59efd075a/"
+    },
+    {
+        "id": "3d6222aa-b8b0-40f4-8a93-0415bec4100f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML5-7-10-FIRE/ukesm1-0-ll/historical/zantout2025_lpjml5-7-10-fire_ukesm1-0-ll_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/3d6222aa-b8b0-40f4-8a93-0415bec4100f/"
+    },
+    {
+        "id": "91ded41b-a96b-45cf-afeb-cbc962018213",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/gfdl-esm4/future/zantout2025_lpjml_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/91ded41b-a96b-45cf-afeb-cbc962018213/"
+    },
+    {
+        "id": "58a8e4c8-689c-4c95-91fa-7ea3725a8d40",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/gfdl-esm4/future/zantout2025_lpjml_gfdl-esm4_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/58a8e4c8-689c-4c95-91fa-7ea3725a8d40/"
+    },
+    {
+        "id": "95d023f5-0742-433c-9ee9-ddcebb7277a0",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/gfdl-esm4/future/zantout2025_lpjml_gfdl-esm4_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/95d023f5-0742-433c-9ee9-ddcebb7277a0/"
+    },
+    {
+        "id": "5db9727a-68ab-477c-ab48-67ea4503fd51",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/gfdl-esm4/future/zantout2025_lpjml_gfdl-esm4_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/5db9727a-68ab-477c-ab48-67ea4503fd51/"
+    },
+    {
+        "id": "2305cb3d-9b05-436e-aa52-c4db7332eb29",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/gfdl-esm4/historical/zantout2025_lpjml_gfdl-esm4_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/2305cb3d-9b05-436e-aa52-c4db7332eb29/"
+    },
+    {
+        "id": "f378d551-85c1-40f9-9605-2efc761ec408",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/gfdl-esm4/historical/zantout2025_lpjml_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f378d551-85c1-40f9-9605-2efc761ec408/"
+    },
+    {
+        "id": "60a42b98-a3b7-45f3-9d5a-094ed22562e5",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/ipsl-cm6a-lr/future/zantout2025_lpjml_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/60a42b98-a3b7-45f3-9d5a-094ed22562e5/"
+    },
+    {
+        "id": "d7e429f6-07d4-4dbe-9003-d70425e5e330",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/ipsl-cm6a-lr/future/zantout2025_lpjml_ipsl-cm6a-lr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/d7e429f6-07d4-4dbe-9003-d70425e5e330/"
+    },
+    {
+        "id": "d239167b-7980-462e-89bb-51da06133f29",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/ipsl-cm6a-lr/future/zantout2025_lpjml_ipsl-cm6a-lr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/d239167b-7980-462e-89bb-51da06133f29/"
+    },
+    {
+        "id": "84890b73-f687-4603-8a6f-a743c730d280",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/ipsl-cm6a-lr/future/zantout2025_lpjml_ipsl-cm6a-lr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/84890b73-f687-4603-8a6f-a743c730d280/"
+    },
+    {
+        "id": "19cfd147-c07a-4953-8d90-ade9b6a92e65",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/ipsl-cm6a-lr/historical/zantout2025_lpjml_ipsl-cm6a-lr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/19cfd147-c07a-4953-8d90-ade9b6a92e65/"
+    },
+    {
+        "id": "8241a1b5-2f07-49b6-a740-ac8cdc2f5973",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/ipsl-cm6a-lr/historical/zantout2025_lpjml_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/8241a1b5-2f07-49b6-a740-ac8cdc2f5973/"
+    },
+    {
+        "id": "9e5d3db8-8212-42fb-8f6f-cdac9b2b6fec",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/mpi-esm1-2-hr/future/zantout2025_lpjml_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/9e5d3db8-8212-42fb-8f6f-cdac9b2b6fec/"
+    },
+    {
+        "id": "6492fe94-5440-44ec-a0a2-7cf9e5ab4786",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/mpi-esm1-2-hr/future/zantout2025_lpjml_mpi-esm1-2-hr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/6492fe94-5440-44ec-a0a2-7cf9e5ab4786/"
+    },
+    {
+        "id": "1c8235cd-ff66-42bc-9d42-5f157733da7b",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/mpi-esm1-2-hr/future/zantout2025_lpjml_mpi-esm1-2-hr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/1c8235cd-ff66-42bc-9d42-5f157733da7b/"
+    },
+    {
+        "id": "683208f6-e9b9-4012-be6a-8cfdf9028081",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/mpi-esm1-2-hr/future/zantout2025_lpjml_mpi-esm1-2-hr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/683208f6-e9b9-4012-be6a-8cfdf9028081/"
+    },
+    {
+        "id": "2baa5639-696a-457e-a51a-e7d196cd95a5",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/mpi-esm1-2-hr/historical/zantout2025_lpjml_mpi-esm1-2-hr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/2baa5639-696a-457e-a51a-e7d196cd95a5/"
+    },
+    {
+        "id": "4990709c-8be4-4227-9b9f-f231949d8ec4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/mpi-esm1-2-hr/historical/zantout2025_lpjml_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4990709c-8be4-4227-9b9f-f231949d8ec4/"
+    },
+    {
+        "id": "4c61e39e-ca29-4a4c-a9cd-3dd5db2c94d8",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/mri-esm2-0/future/zantout2025_lpjml_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4c61e39e-ca29-4a4c-a9cd-3dd5db2c94d8/"
+    },
+    {
+        "id": "8d36f971-1e9e-42b2-a104-25744696d480",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/mri-esm2-0/future/zantout2025_lpjml_mri-esm2-0_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/8d36f971-1e9e-42b2-a104-25744696d480/"
+    },
+    {
+        "id": "c07d99f6-eced-498e-9ab5-e44e764d819f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/mri-esm2-0/future/zantout2025_lpjml_mri-esm2-0_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c07d99f6-eced-498e-9ab5-e44e764d819f/"
+    },
+    {
+        "id": "143c610a-6a7f-4a39-bb8d-cd985d29b3c5",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/mri-esm2-0/future/zantout2025_lpjml_mri-esm2-0_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/143c610a-6a7f-4a39-bb8d-cd985d29b3c5/"
+    },
+    {
+        "id": "822d4d25-0d41-4a98-8418-902ad6db52ce",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/mri-esm2-0/historical/zantout2025_lpjml_mri-esm2-0_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/822d4d25-0d41-4a98-8418-902ad6db52ce/"
+    },
+    {
+        "id": "9b492dde-e7b0-441e-8f77-5a5cedae9c2e",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/mri-esm2-0/historical/zantout2025_lpjml_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/9b492dde-e7b0-441e-8f77-5a5cedae9c2e/"
+    },
+    {
+        "id": "0e85ce11-39c4-416f-aee7-3ab04f09afb7",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/ukesm1-0-ll/future/zantout2025_lpjml_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/0e85ce11-39c4-416f-aee7-3ab04f09afb7/"
+    },
+    {
+        "id": "644e149f-cc99-4d78-ae05-917962e68f53",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/ukesm1-0-ll/future/zantout2025_lpjml_ukesm1-0-ll_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/644e149f-cc99-4d78-ae05-917962e68f53/"
+    },
+    {
+        "id": "5c207be5-cf3d-4360-bd16-e57081346c35",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/ukesm1-0-ll/future/zantout2025_lpjml_ukesm1-0-ll_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/5c207be5-cf3d-4360-bd16-e57081346c35/"
+    },
+    {
+        "id": "48430b21-65d0-47b9-9cac-03cb5c83803f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/ukesm1-0-ll/future/zantout2025_lpjml_ukesm1-0-ll_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/48430b21-65d0-47b9-9cac-03cb5c83803f/"
+    },
+    {
+        "id": "26703f4c-f078-4004-8555-e657d88166f6",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/ukesm1-0-ll/historical/zantout2025_lpjml_ukesm1-0-ll_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/26703f4c-f078-4004-8555-e657d88166f6/"
+    },
+    {
+        "id": "14883269-5cca-4677-a631-99db5026ceba",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/LPJML/ukesm1-0-ll/historical/zantout2025_lpjml_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/14883269-5cca-4677-a631-99db5026ceba/"
+    },
+    {
+        "id": "f3d96150-1ec2-4737-b641-4e9d42f1b461",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/gfdl-esm4/future/zantout2025_pepic_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f3d96150-1ec2-4737-b641-4e9d42f1b461/"
+    },
+    {
+        "id": "4bd8d640-af88-4e6c-a340-968c0a322cfc",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/gfdl-esm4/future/zantout2025_pepic_gfdl-esm4_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4bd8d640-af88-4e6c-a340-968c0a322cfc/"
+    },
+    {
+        "id": "30bd99fe-b037-43cd-b0c5-93ecd16fc032",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/gfdl-esm4/future/zantout2025_pepic_gfdl-esm4_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/30bd99fe-b037-43cd-b0c5-93ecd16fc032/"
+    },
+    {
+        "id": "65a14126-4a7e-4702-aac3-0b2fca0d23a9",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/gfdl-esm4/future/zantout2025_pepic_gfdl-esm4_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/65a14126-4a7e-4702-aac3-0b2fca0d23a9/"
+    },
+    {
+        "id": "a04568f3-1489-4cfd-b094-ba9a544b4d8e",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/gfdl-esm4/historical/zantout2025_pepic_gfdl-esm4_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a04568f3-1489-4cfd-b094-ba9a544b4d8e/"
+    },
+    {
+        "id": "51ca511a-af93-4fad-b76d-231cd0bba829",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/gfdl-esm4/historical/zantout2025_pepic_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/51ca511a-af93-4fad-b76d-231cd0bba829/"
+    },
+    {
+        "id": "a69bb9be-a59c-4b59-b4bd-1a4d7dea0d0a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/ipsl-cm6a-lr/future/zantout2025_pepic_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a69bb9be-a59c-4b59-b4bd-1a4d7dea0d0a/"
+    },
+    {
+        "id": "5520626f-8551-42c5-bdcc-3508d578a3b4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/ipsl-cm6a-lr/future/zantout2025_pepic_ipsl-cm6a-lr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/5520626f-8551-42c5-bdcc-3508d578a3b4/"
+    },
+    {
+        "id": "0272d458-a602-4247-a8c0-1a5bb32ba91c",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/ipsl-cm6a-lr/future/zantout2025_pepic_ipsl-cm6a-lr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/0272d458-a602-4247-a8c0-1a5bb32ba91c/"
+    },
+    {
+        "id": "039b1cf9-7bf0-44bc-bd44-c1eb3871c5df",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/ipsl-cm6a-lr/future/zantout2025_pepic_ipsl-cm6a-lr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/039b1cf9-7bf0-44bc-bd44-c1eb3871c5df/"
+    },
+    {
+        "id": "0c12a565-90b0-44fd-b4f8-ef76be340486",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/ipsl-cm6a-lr/historical/zantout2025_pepic_ipsl-cm6a-lr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/0c12a565-90b0-44fd-b4f8-ef76be340486/"
+    },
+    {
+        "id": "7e6dbf2b-6dc7-4833-8da1-96a289baec56",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/ipsl-cm6a-lr/historical/zantout2025_pepic_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/7e6dbf2b-6dc7-4833-8da1-96a289baec56/"
+    },
+    {
+        "id": "cfe8e5a8-8b64-4eb7-bfea-a5dd75621d7c",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/mpi-esm1-2-hr/future/zantout2025_pepic_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/cfe8e5a8-8b64-4eb7-bfea-a5dd75621d7c/"
+    },
+    {
+        "id": "bf438fce-197a-4303-8c17-ddf24dd3fca2",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/mpi-esm1-2-hr/future/zantout2025_pepic_mpi-esm1-2-hr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/bf438fce-197a-4303-8c17-ddf24dd3fca2/"
+    },
+    {
+        "id": "8e248fd7-53ee-4577-9d85-5d86e4a7a0f6",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/mpi-esm1-2-hr/future/zantout2025_pepic_mpi-esm1-2-hr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/8e248fd7-53ee-4577-9d85-5d86e4a7a0f6/"
+    },
+    {
+        "id": "36ae3219-028a-4356-924e-d2e6164348cc",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/mpi-esm1-2-hr/future/zantout2025_pepic_mpi-esm1-2-hr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/36ae3219-028a-4356-924e-d2e6164348cc/"
+    },
+    {
+        "id": "95712c73-e892-4bdf-b42b-de5aaa64a216",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/mpi-esm1-2-hr/historical/zantout2025_pepic_mpi-esm1-2-hr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/95712c73-e892-4bdf-b42b-de5aaa64a216/"
+    },
+    {
+        "id": "2a4f73fc-e4f5-45a4-b1ba-98a1e6fc0e1f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/mpi-esm1-2-hr/historical/zantout2025_pepic_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/2a4f73fc-e4f5-45a4-b1ba-98a1e6fc0e1f/"
+    },
+    {
+        "id": "256214b1-9543-4875-8090-dfe3457aaf1e",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/mri-esm2-0/future/zantout2025_pepic_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/256214b1-9543-4875-8090-dfe3457aaf1e/"
+    },
+    {
+        "id": "22d222d2-3b2b-41a9-a7e5-2fb718c4cbbc",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/mri-esm2-0/future/zantout2025_pepic_mri-esm2-0_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/22d222d2-3b2b-41a9-a7e5-2fb718c4cbbc/"
+    },
+    {
+        "id": "e3ea0289-c0f3-49e5-9701-51ac3fc45273",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/mri-esm2-0/future/zantout2025_pepic_mri-esm2-0_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/e3ea0289-c0f3-49e5-9701-51ac3fc45273/"
+    },
+    {
+        "id": "e8e14ed7-25ca-4e5f-8627-ee59c0e0d113",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/mri-esm2-0/future/zantout2025_pepic_mri-esm2-0_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/e8e14ed7-25ca-4e5f-8627-ee59c0e0d113/"
+    },
+    {
+        "id": "6c37b13a-5e36-4f35-8cc8-bc4bf34532a7",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/mri-esm2-0/historical/zantout2025_pepic_mri-esm2-0_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/6c37b13a-5e36-4f35-8cc8-bc4bf34532a7/"
+    },
+    {
+        "id": "c5c189da-7f9c-4bfb-b9d1-366792e107e6",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/mri-esm2-0/historical/zantout2025_pepic_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c5c189da-7f9c-4bfb-b9d1-366792e107e6/"
+    },
+    {
+        "id": "1f2ebcbc-e3e2-4add-a1da-4ed8db975c7c",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/ukesm1-0-ll/future/zantout2025_pepic_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/1f2ebcbc-e3e2-4add-a1da-4ed8db975c7c/"
+    },
+    {
+        "id": "4a1dc7d5-8d7a-464f-8723-001c9f0d0fde",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/ukesm1-0-ll/future/zantout2025_pepic_ukesm1-0-ll_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4a1dc7d5-8d7a-464f-8723-001c9f0d0fde/"
+    },
+    {
+        "id": "5ebedfe5-f9fa-439c-ba80-d9641ffbb468",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/ukesm1-0-ll/future/zantout2025_pepic_ukesm1-0-ll_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/5ebedfe5-f9fa-439c-ba80-d9641ffbb468/"
+    },
+    {
+        "id": "2f403918-c526-43fe-8fa2-07fcbf43a653",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/ukesm1-0-ll/future/zantout2025_pepic_ukesm1-0-ll_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/2f403918-c526-43fe-8fa2-07fcbf43a653/"
+    },
+    {
+        "id": "09bb771b-c9ac-488e-a712-96dfdb548cac",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/ukesm1-0-ll/historical/zantout2025_pepic_ukesm1-0-ll_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/09bb771b-c9ac-488e-a712-96dfdb548cac/"
+    },
+    {
+        "id": "8eb39d85-885e-4ef2-ab39-c8933b539063",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PEPIC/ukesm1-0-ll/historical/zantout2025_pepic_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/8eb39d85-885e-4ef2-ab39-c8933b539063/"
+    },
+    {
+        "id": "a9e2b857-06b4-4aa4-80e2-a48d8ac8bd52",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/gfdl-esm4/future/zantout2025_promet_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a9e2b857-06b4-4aa4-80e2-a48d8ac8bd52/"
+    },
+    {
+        "id": "cc305b7b-9371-494e-9200-69cd64d7f183",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/gfdl-esm4/future/zantout2025_promet_gfdl-esm4_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/cc305b7b-9371-494e-9200-69cd64d7f183/"
+    },
+    {
+        "id": "80cb2aa1-27c3-4966-8398-af5107558c69",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/gfdl-esm4/future/zantout2025_promet_gfdl-esm4_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/80cb2aa1-27c3-4966-8398-af5107558c69/"
+    },
+    {
+        "id": "3db06000-5161-4238-ba26-ade62b1d840a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/gfdl-esm4/future/zantout2025_promet_gfdl-esm4_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/3db06000-5161-4238-ba26-ade62b1d840a/"
+    },
+    {
+        "id": "c36beae1-68d1-4073-839d-e3d7032384af",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/gfdl-esm4/historical/zantout2025_promet_gfdl-esm4_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c36beae1-68d1-4073-839d-e3d7032384af/"
+    },
+    {
+        "id": "5402bc9d-6cda-4a95-a9e4-05a1303bcbce",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/gfdl-esm4/historical/zantout2025_promet_gfdl-esm4_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/5402bc9d-6cda-4a95-a9e4-05a1303bcbce/"
+    },
+    {
+        "id": "55a40acf-c700-4d73-b3b4-5b7c878ed26f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/ipsl-cm6a-lr/future/zantout2025_promet_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/55a40acf-c700-4d73-b3b4-5b7c878ed26f/"
+    },
+    {
+        "id": "3debc44b-5e30-47ad-8bda-1d6146f93d9a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/ipsl-cm6a-lr/future/zantout2025_promet_ipsl-cm6a-lr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/3debc44b-5e30-47ad-8bda-1d6146f93d9a/"
+    },
+    {
+        "id": "df7767ad-2600-4cc0-8022-1a6c2a9dc548",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/ipsl-cm6a-lr/future/zantout2025_promet_ipsl-cm6a-lr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/df7767ad-2600-4cc0-8022-1a6c2a9dc548/"
+    },
+    {
+        "id": "1a65b21c-8214-45f6-b19c-2e2927fb57ee",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/ipsl-cm6a-lr/future/zantout2025_promet_ipsl-cm6a-lr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/1a65b21c-8214-45f6-b19c-2e2927fb57ee/"
+    },
+    {
+        "id": "b622d9b9-0d41-4a9e-ad64-b59dfb4cf5ae",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/ipsl-cm6a-lr/historical/zantout2025_promet_ipsl-cm6a-lr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/b622d9b9-0d41-4a9e-ad64-b59dfb4cf5ae/"
+    },
+    {
+        "id": "79a33d58-abfb-48bd-8a5d-6a151706c543",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/ipsl-cm6a-lr/historical/zantout2025_promet_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/79a33d58-abfb-48bd-8a5d-6a151706c543/"
+    },
+    {
+        "id": "8cfa5dd7-16ce-4f51-8fdc-019806dadce4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/mpi-esm1-2-hr/future/zantout2025_promet_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/8cfa5dd7-16ce-4f51-8fdc-019806dadce4/"
+    },
+    {
+        "id": "f03f5af2-106a-44bc-848c-a1c1fcaa10bb",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/mpi-esm1-2-hr/future/zantout2025_promet_mpi-esm1-2-hr_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f03f5af2-106a-44bc-848c-a1c1fcaa10bb/"
+    },
+    {
+        "id": "c74b2a98-26e6-459f-af53-a62b0acea5be",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/mpi-esm1-2-hr/future/zantout2025_promet_mpi-esm1-2-hr_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c74b2a98-26e6-459f-af53-a62b0acea5be/"
+    },
+    {
+        "id": "28fca70e-626b-4549-b211-d4fe2d0ec315",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/mpi-esm1-2-hr/future/zantout2025_promet_mpi-esm1-2-hr_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/28fca70e-626b-4549-b211-d4fe2d0ec315/"
+    },
+    {
+        "id": "4258a86f-6046-4d1d-9a8c-2e9e377bdd9d",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/mpi-esm1-2-hr/historical/zantout2025_promet_mpi-esm1-2-hr_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/4258a86f-6046-4d1d-9a8c-2e9e377bdd9d/"
+    },
+    {
+        "id": "121823b0-afa0-4300-840d-8346732b621b",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/mpi-esm1-2-hr/historical/zantout2025_promet_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/121823b0-afa0-4300-840d-8346732b621b/"
+    },
+    {
+        "id": "0d4b79a3-5992-452a-91e6-55dcabc8fe6e",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/mri-esm2-0/future/zantout2025_promet_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/0d4b79a3-5992-452a-91e6-55dcabc8fe6e/"
+    },
+    {
+        "id": "a811c72b-acbe-4251-9c9f-c5a00e8bf772",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/mri-esm2-0/future/zantout2025_promet_mri-esm2-0_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a811c72b-acbe-4251-9c9f-c5a00e8bf772/"
+    },
+    {
+        "id": "6ac901c9-9fee-415d-8dd6-5ac4550a6f46",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/mri-esm2-0/future/zantout2025_promet_mri-esm2-0_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/6ac901c9-9fee-415d-8dd6-5ac4550a6f46/"
+    },
+    {
+        "id": "32d4c756-479a-4388-8984-2ad7e1575d8d",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/mri-esm2-0/future/zantout2025_promet_mri-esm2-0_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/32d4c756-479a-4388-8984-2ad7e1575d8d/"
+    },
+    {
+        "id": "708ceb6e-c085-43ab-ae7d-ef9e74dcc591",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/mri-esm2-0/historical/zantout2025_promet_mri-esm2-0_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/708ceb6e-c085-43ab-ae7d-ef9e74dcc591/"
+    },
+    {
+        "id": "f00d3ed0-8aee-4f3a-99d1-58feac55597f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/mri-esm2-0/historical/zantout2025_promet_mri-esm2-0_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f00d3ed0-8aee-4f3a-99d1-58feac55597f/"
+    },
+    {
+        "id": "b0302017-c5e4-4718-98ef-419cd7e441e0",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/ukesm1-0-ll/future/zantout2025_promet_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/b0302017-c5e4-4718-98ef-419cd7e441e0/"
+    },
+    {
+        "id": "2733ca68-255c-4038-ab72-2a70acd9f8b7",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/ukesm1-0-ll/future/zantout2025_promet_ukesm1-0-ll_w5e5_ssp126_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/2733ca68-255c-4038-ab72-2a70acd9f8b7/"
+    },
+    {
+        "id": "2c2428be-d938-4a5e-8896-6b202761ee66",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/ukesm1-0-ll/future/zantout2025_promet_ukesm1-0-ll_w5e5_ssp370_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/2c2428be-d938-4a5e-8896-6b202761ee66/"
+    },
+    {
+        "id": "1bfb2b0c-b60f-4e43-9b5b-fd4946e19635",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/ukesm1-0-ll/future/zantout2025_promet_ukesm1-0-ll_w5e5_ssp585_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/1bfb2b0c-b60f-4e43-9b5b-fd4946e19635/"
+    },
+    {
+        "id": "acf3e889-dfe5-4884-803b-70edf4f0dd00",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/ukesm1-0-ll/historical/zantout2025_promet_ukesm1-0-ll_w5e5_historical_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/acf3e889-dfe5-4884-803b-70edf4f0dd00/"
+    },
+    {
+        "id": "a1f9e740-cff4-409c-9092-b339ea4bb387",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/PROMET/ukesm1-0-ll/historical/zantout2025_promet_ukesm1-0-ll_w5e5_picontrol_2015soc_default_cropfailure_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a1f9e740-cff4-409c-9092-b339ea4bb387/"
+    },
+    {
+        "id": "d408ad81-ed5e-4f0e-84fb-a6bca062f74d",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/gfdl-esm4/future/zantout2025_visit_gfdl-esm4_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/d408ad81-ed5e-4f0e-84fb-a6bca062f74d/"
+    },
+    {
+        "id": "d7fb4901-70fb-4294-a5c2-79c357941315",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/gfdl-esm4/future/zantout2025_visit_gfdl-esm4_w5e5_ssp126_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/d7fb4901-70fb-4294-a5c2-79c357941315/"
+    },
+    {
+        "id": "c7fcad49-631b-4716-b789-7584678341d9",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/gfdl-esm4/future/zantout2025_visit_gfdl-esm4_w5e5_ssp370_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c7fcad49-631b-4716-b789-7584678341d9/"
+    },
+    {
+        "id": "a0110971-b00c-455a-a393-12c2d595420f",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/gfdl-esm4/future/zantout2025_visit_gfdl-esm4_w5e5_ssp585_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/a0110971-b00c-455a-a393-12c2d595420f/"
+    },
+    {
+        "id": "ed97daed-aec8-4471-ad1e-2a45b361413d",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/gfdl-esm4/historical/zantout2025_visit_gfdl-esm4_w5e5_historical_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/ed97daed-aec8-4471-ad1e-2a45b361413d/"
+    },
+    {
+        "id": "e36b0c58-0d5f-458f-9b2a-e14bea9cbc7d",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/gfdl-esm4/historical/zantout2025_visit_gfdl-esm4_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/e36b0c58-0d5f-458f-9b2a-e14bea9cbc7d/"
+    },
+    {
+        "id": "f54ef54f-2d31-456d-ab03-5f42aad3a5d7",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/ipsl-cm6a-lr/future/zantout2025_visit_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f54ef54f-2d31-456d-ab03-5f42aad3a5d7/"
+    },
+    {
+        "id": "7e01469a-bc5f-40cc-ad0f-3da87188064a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/ipsl-cm6a-lr/future/zantout2025_visit_ipsl-cm6a-lr_w5e5_ssp126_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/7e01469a-bc5f-40cc-ad0f-3da87188064a/"
+    },
+    {
+        "id": "f140e218-c3e9-410a-9671-f4b3c7d28a63",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/ipsl-cm6a-lr/future/zantout2025_visit_ipsl-cm6a-lr_w5e5_ssp370_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f140e218-c3e9-410a-9671-f4b3c7d28a63/"
+    },
+    {
+        "id": "f05315c0-2989-41b3-9c6e-f6a5d881f0fc",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/ipsl-cm6a-lr/future/zantout2025_visit_ipsl-cm6a-lr_w5e5_ssp585_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/f05315c0-2989-41b3-9c6e-f6a5d881f0fc/"
+    },
+    {
+        "id": "c4a05cf4-811d-4ee7-bdfc-ba2e7a36ea9e",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/ipsl-cm6a-lr/historical/zantout2025_visit_ipsl-cm6a-lr_w5e5_historical_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/c4a05cf4-811d-4ee7-bdfc-ba2e7a36ea9e/"
+    },
+    {
+        "id": "d78b2c5a-3f57-4556-9931-c834a482b440",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/ipsl-cm6a-lr/historical/zantout2025_visit_ipsl-cm6a-lr_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/d78b2c5a-3f57-4556-9931-c834a482b440/"
+    },
+    {
+        "id": "08ef01b4-cb8b-4503-ad77-ea389e4c8841",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/mpi-esm1-2-hr/future/zantout2025_visit_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/08ef01b4-cb8b-4503-ad77-ea389e4c8841/"
+    },
+    {
+        "id": "147545ce-8d25-4c7d-8586-522e3a1c0303",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/mpi-esm1-2-hr/future/zantout2025_visit_mpi-esm1-2-hr_w5e5_ssp126_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/147545ce-8d25-4c7d-8586-522e3a1c0303/"
+    },
+    {
+        "id": "82ab6231-2bdc-4034-ba4a-429a6c51dda9",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/mpi-esm1-2-hr/future/zantout2025_visit_mpi-esm1-2-hr_w5e5_ssp370_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/82ab6231-2bdc-4034-ba4a-429a6c51dda9/"
+    },
+    {
+        "id": "e2740a16-f99b-41f8-b2c9-81acdcd4ed50",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/mpi-esm1-2-hr/future/zantout2025_visit_mpi-esm1-2-hr_w5e5_ssp585_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/e2740a16-f99b-41f8-b2c9-81acdcd4ed50/"
+    },
+    {
+        "id": "5f16d6e4-6cb7-4e83-ae59-91ac0603c06d",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/mpi-esm1-2-hr/historical/zantout2025_visit_mpi-esm1-2-hr_w5e5_historical_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/5f16d6e4-6cb7-4e83-ae59-91ac0603c06d/"
+    },
+    {
+        "id": "1136c0d7-216b-4dfc-a481-8b37a8784378",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/mpi-esm1-2-hr/historical/zantout2025_visit_mpi-esm1-2-hr_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/1136c0d7-216b-4dfc-a481-8b37a8784378/"
+    },
+    {
+        "id": "31c12901-dae7-4e8d-be54-958b8e02c314",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/mri-esm2-0/future/zantout2025_visit_mri-esm2-0_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/31c12901-dae7-4e8d-be54-958b8e02c314/"
+    },
+    {
+        "id": "12f957d5-fd5c-4d37-b51b-42dbdc013ceb",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/mri-esm2-0/future/zantout2025_visit_mri-esm2-0_w5e5_ssp126_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/12f957d5-fd5c-4d37-b51b-42dbdc013ceb/"
+    },
+    {
+        "id": "eb9b4c2b-2f3d-41c8-8ea9-8d3a6c649a38",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/mri-esm2-0/future/zantout2025_visit_mri-esm2-0_w5e5_ssp370_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/eb9b4c2b-2f3d-41c8-8ea9-8d3a6c649a38/"
+    },
+    {
+        "id": "8238c1e0-267b-437f-b0d4-9e87925c6578",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/mri-esm2-0/future/zantout2025_visit_mri-esm2-0_w5e5_ssp585_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/8238c1e0-267b-437f-b0d4-9e87925c6578/"
+    },
+    {
+        "id": "14eddf39-9dc3-4b76-8c4a-16cb9cbf15f8",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/mri-esm2-0/historical/zantout2025_visit_mri-esm2-0_w5e5_historical_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/14eddf39-9dc3-4b76-8c4a-16cb9cbf15f8/"
+    },
+    {
+        "id": "14f8e829-67d7-44f7-818b-098e3ac48c2a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/mri-esm2-0/historical/zantout2025_visit_mri-esm2-0_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/14f8e829-67d7-44f7-818b-098e3ac48c2a/"
+    },
+    {
+        "id": "b7bb5464-c73c-4bd0-ae44-a6326902a2c3",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/ukesm1-0-ll/future/zantout2025_visit_ukesm1-0-ll_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/b7bb5464-c73c-4bd0-ae44-a6326902a2c3/"
+    },
+    {
+        "id": "ba83b1f9-e071-4e0a-8518-080a9c6473e0",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/ukesm1-0-ll/future/zantout2025_visit_ukesm1-0-ll_w5e5_ssp126_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/ba83b1f9-e071-4e0a-8518-080a9c6473e0/"
+    },
+    {
+        "id": "79620ad8-ee7d-478b-ac6e-bcec21a945c4",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/ukesm1-0-ll/future/zantout2025_visit_ukesm1-0-ll_w5e5_ssp370_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/79620ad8-ee7d-478b-ac6e-bcec21a945c4/"
+    },
+    {
+        "id": "5edfa4a2-1772-4746-89d6-85e46e133d84",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/ukesm1-0-ll/future/zantout2025_visit_ukesm1-0-ll_w5e5_ssp585_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/5edfa4a2-1772-4746-89d6-85e46e133d84/"
+    },
+    {
+        "id": "cae7b32c-c679-4b95-b454-72ad53b6fa3a",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/ukesm1-0-ll/historical/zantout2025_visit_ukesm1-0-ll_w5e5_historical_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/cae7b32c-c679-4b95-b454-72ad53b6fa3a/"
+    },
+    {
+        "id": "e7b86b10-7053-4572-aead-78a5f0638cca",
+        "path": "ISIMIP3b/DerivedOutputData/Zantout2025/VISIT/ukesm1-0-ll/historical/zantout2025_visit_ukesm1-0-ll_w5e5_picontrol_2015soc_default_wildfire_global_annual",
+        "version": "20251016",
+        "public": true,
+        "metadata_url": "https://data.isimip.org/api/v1/resources/879e1232-8a1f-418b-a012-ce1a0b3b6b4c/datasets//datasets/e7b86b10-7053-4572-aead-78a5f0638cca/"
+    }
+]
