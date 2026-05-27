@@ -8,7 +8,7 @@
 朱欣雨2025303110137@xinyuzhu-lang
 # 项目信息
 论文标题：Shifting dominant periods in extreme climate impacts under global warming  
-发表期刊/时间： nature communications/ 05 November 2025  
+发表期刊/时间：nature communications/ 05 November 2025  
 原文链接：https://www.nature.com/articles/s41467-025-65600-7  
 数据链接：https://doi.org/10.48364/ISIMIP.920810  
 代码链接：https://doi.org/10.24433/CO.0842870.v1
